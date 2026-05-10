@@ -17,4 +17,4 @@ Privacy Policy
 
 View Privacy Policy:
 
-[Privacy Policy](./privacy-policy.html)
+[Privacy Policy](https://rafiqctgbd.github.io/medicine-health-reminder-policy/privacy-policy.html)
