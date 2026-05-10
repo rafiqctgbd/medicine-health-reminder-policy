@@ -17,4 +17,4 @@ Privacy Policy
 
 View Privacy Policy:
 
-Privacy Policy
+[Privacy Policy](./privacy-policy.html)
