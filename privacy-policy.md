@@ -1,0 +1,94 @@
+﻿Privacy Policy
+
+Effective Date: May 10, 2026
+
+Medicine & Health Reminder
+
+Medicine & Health Reminder (“the App”) is designed to help users manage medicine schedules, health reminders, and personal medical records.
+
+Your privacy is important to us. This Privacy Policy explains how the App collects, uses, and protects your information.
+
+Information We Collect
+
+The App may store the following information locally on your device:
+
+Medicine schedules and reminders
+Health-related notes and records
+Medical images or attachments added by the user
+App preferences and settings
+
+The App does NOT collect personal data on external servers owned by the developer.
+
+Google Sign-In and Google Drive Access
+
+The App optionally allows users to sign in with their Google account in order to:
+
+Backup medicine reminders and medical records
+Restore previously backed-up data
+Synchronize user data across devices
+
+The App uses Google Drive AppData Folder access (drive.appdata scope) only.
+
+This means:
+
+Data is stored privately inside the user's own Google Drive account
+Data is NOT visible publicly
+Data is NOT shared with third parties
+Data is NOT sold or used for advertising
+Only the user can access their backed-up data
+
+The App does NOT access:
+
+User documents
+Photos
+Videos
+General Google Drive files
+Emails or contacts
+
+The App only accesses its own hidden application backup folder.
+
+Data Sharing
+
+We do not sell, rent, trade, or share user data with third parties.
+
+Data Security
+
+User data remains primarily on the user's device and/or within the user's personal Google Drive account.
+
+Reasonable measures are taken to protect stored information.
+
+User Control
+
+Users may:
+
+Use the App without Google Sign-In
+Revoke Google account access at any time through Google Account settings
+Delete app data from their Google Drive
+Uninstall the App to remove local device data
+Permissions Used
+
+The App may request permissions including:
+
+Internet access (for backup/restore)
+Notifications and alarms (medicine reminders)
+Camera access (medical record attachments)
+Storage/media access (saving or selecting medical images)
+Boot completed permission (to restore reminders after device restart)
+
+These permissions are used solely for app functionality.
+
+Children's Privacy
+
+The App is not specifically directed toward children under 13.
+
+Changes to This Privacy Policy
+
+This Privacy Policy may be updated in the future.
+
+Updated versions will be published on this page.
+
+Contact
+
+For questions regarding this Privacy Policy, contact:
+
+rafiqctgbd@gmail.com
